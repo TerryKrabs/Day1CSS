@@ -1,0 +1,30 @@
+h1{
+     color: purple; 
+
+    /* background-image: url(assets/ezgif.com-add-text\ \(1\).gif); */
+}
+    
+/* this is a class selector */
+
+.changeMe {
+
+        font-size: 60px;
+        font-family: 'Courier New', Courier, monospace ;
+        font-weight: bolder;
+    }
+
+
+    /* this is an ID Selector(We should use this only as needed) */
+    #myID {
+
+        color: purple ;
+        font-size: 40px;
+        background-color: lightsalmon;
+    }
+
+    .centerThis {
+
+        text-align: center;
+    }
+
+    
